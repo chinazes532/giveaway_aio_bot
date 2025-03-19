@@ -32,8 +32,9 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ваш_пользователь/ваш_репозиторий.git
-   cd ваш_репозиторий
+   git clone https://github.com/chinazes532/giveaway_aio_bot.git
+   cd giveaway_aio_bot
+   
 Установите зависимости:
 
 pip install -r requirements.txt
