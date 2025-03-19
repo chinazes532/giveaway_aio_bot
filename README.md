@@ -1,7 +1,7 @@
 # Telegram Bot for Channel Management and Giveaways
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![aiogram](https://img.shields.io/badge/aiogram-2.x-blue)
+![aiogram](https://img.shields.io/badge/aiogram-3.x-blue)
 
 ## Описание
 
